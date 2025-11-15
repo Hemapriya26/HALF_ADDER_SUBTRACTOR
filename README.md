@@ -67,7 +67,6 @@ Developed by: HEMAPRIYA P RegisterNumber: 25015164
 ![WhatsApp Image 2025-11-15 at 21 58 17_5bb27604](https://github.com/user-attachments/assets/f91c9c01-0bf8-4ccf-9ed1-33048d87537a)
 
 **Half Subtractor**
-
 ![WhatsApp Image 2025-11-15 at 21 58 17_c2cef054](https://github.com/user-attachments/assets/d519dfcf-a1b0-4efe-bc3a-a51d6fac6153)
 
 **Output/TIMING Waveform Half adder**
@@ -75,7 +74,6 @@ Developed by: HEMAPRIYA P RegisterNumber: 25015164
 <img width="1321" height="767" alt="image" src="https://github.com/user-attachments/assets/8e9c0aa9-32b6-40eb-bc8e-d172f7bfdba2" />
 
 **Half subtractor**
-
 <img width="1318" height="767" alt="image" src="https://github.com/user-attachments/assets/ec8ff66a-2a3c-4a73-8c66-5a7a78b5da4a" />
 
 
